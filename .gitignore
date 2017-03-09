@@ -1,0 +1,35 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+Davegame/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+ 
+# ============================================= #
+# Visual Studio / MonoDevelop / Rider generated #
+# ============================================= #
+[Ee]xported[Oo]bj/
+.vs/
+Davegame/*.userprefs
+Davegame/*.csproj
+Davegame/*.pidb
+Davegame/*.suo
+Davegame/*.sln*
+Davegame/*.user
+Davegame/*.unityproj
+Davegame/*.booproj
+Davegame/.idea*/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
